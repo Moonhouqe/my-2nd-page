@@ -1,0 +1,42 @@
+
+section{
+    display: flex;
+
+}
+.width{
+    width: 50%;
+}
+.width img{
+    width: 70%;
+    padding: 10px ;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 30px;
+    text-align: center;
+   
+   
+}
+h1{
+    font-size: 40px;
+}
+span{
+    color: blueviolet;
+}
+.h3{
+    color: rgb(147, 104, 189);
+}
+.back-img{
+    background-image: url(./image/v975-801-kqeq200i.jpg);
+    background-repeat: no-repeat;
+    margin:0px 0px 0px 0px;
+
+}
+.button{
+    text-decoration: none;
+    color: ghostwhite;
+    background-color: rgb(156, 110, 199);
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
